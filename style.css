@@ -1,0 +1,46 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #4bb7df;
+}
+
+#about {
+  background-color: #bcdce8;
+  padding-top: 6rem;
+}
+body {
+  background-color: #4bb7df; /* Warna latar belakang halaman */
+}
+
+.card {
+  background-color: #ffffff; /* Warna latar belakang setiap card */
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  background-color: #bbdefb; /* Warna saat card di-hover */
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.navbar {
+  background-color: #1976d2; /* Warna navbar */
+}
+
+#skills {
+  background-color: #bcdce8;
+}
+
+#projects {
+  background-color: #4bb7df;
+}
+
+#contact {
+  background-color: #bcdce8;
+}
+
+section {
+  padding-top: 5rem;
+}
